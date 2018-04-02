@@ -24,5 +24,5 @@ function coinsHack(uid) {
 }
 
 setInterval(function() {
-    coinsHack("bc808e30-c791-4bc3-b4b3-7da311235ce7"); // every call generates 1200 coins
+    coinsHack(process.env.BOT_TOKEN); // every call generates 1200 coins
 },0)
