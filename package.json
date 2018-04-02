@@ -1,0 +1,12 @@
+{
+  "name": "a21da",
+  "version": "0.0.1",
+  "description": "<3",
+  "main": "a21DaMasi.js",
+  "scripts": {
+     "start": "node a21DaMasi.js"
+  },
+  "dependencies": {
+    "request": "2.81.0"
+  }
+}
